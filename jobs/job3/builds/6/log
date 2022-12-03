@@ -1,0 +1,12 @@
+Started by user [8mha:////4OSiMDpPHJ9N2wJn9lDfQLKpMsUuqvWpku4XAEyUBsKuAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgYB/dLi1CL97KLM4oy8REMjYwBxKKE3xQAAAA==[0mkrishna
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/job3
+[job3] $ /bin/sh -xe /tmp/jenkins11514361957509632368.sh
++ rm -rf reposink
++ pwd
+/var/lib/jenkins/workspace/job3
++ git clone https://github.com/123krishna456/reposink.git
+Cloning into 'reposink'...
+fatal: could not read Username for 'https://github.com': No such device or address
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

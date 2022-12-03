@@ -16,9 +16,9 @@
       <timestamp0>1669995791406</timestamp0>
     </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
     <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1189.vf61b_a_5e2f62e">
-      <timestamp>1670070067752</timestamp>
+      <timestamp>1670073471649</timestamp>
       <nodeName>jenkinworker4</nodeName>
-      <timestamp0>1670048256693</timestamp0>
+      <timestamp0>1670072631533</timestamp0>
     </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
   </facets>
 </fingerprint>

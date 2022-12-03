@@ -1,0 +1,8 @@
+Started by user [8mha:////4OSiMDpPHJ9N2wJn9lDfQLKpMsUuqvWpku4XAEyUBsKuAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgYB/dLi1CL97KLM4oy8REMjYwBxKKE3xQAAAA==[0mkrishna
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/trialforbackup
+[trialforbackup] $ /bin/sh -xe /tmp/jenkins14103636386751595697.sh
++ pwd
+/var/lib/jenkins/workspace/trialforbackup
++ ls
+Finished: SUCCESS
