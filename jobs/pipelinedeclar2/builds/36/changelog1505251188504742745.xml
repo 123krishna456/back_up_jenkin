@@ -1,0 +1,18 @@
+commit 6efefa0da42c5ffe8272c80d9e4f2f86f7381059
+tree fcd6de9f87ddac8f545f206039cb7636ac28e554
+parent 36cdf0130b47db465be1c8e6fb5443edda83c75a
+author 123krishna456 <118282645+123krishna456@users.noreply.github.com> 2022-12-02 07:25:00 +0530
+committer GitHub <noreply@github.com> 2022-12-02 07:25:00 +0530
+
+    Update Jenkinsfile2
+
+:100644 100644 9c6574d23aabe357e9f69184328b6ab52812b76e b12527ebf418b5b355aeac1cf5bb58383b0fc4ca M	Jenkinsfile2
+commit 36cdf0130b47db465be1c8e6fb5443edda83c75a
+tree e2596b9fa1b73c7f253dc81d61b13a761d7b1c4b
+parent 304dfd9288eca3c4b8223fc9a2a82de5a0a4ecc4
+author 123krishna456 <118282645+123krishna456@users.noreply.github.com> 2022-12-02 07:09:52 +0530
+committer GitHub <noreply@github.com> 2022-12-02 07:09:52 +0530
+
+    Update pom.xml
+
+:100644 100644 85f2e2e2aedafe4afbaeb08b305c254b5247371d cfabf9224be0d746575a75126e252a88a57406a7 M	pom.xml

@@ -1,0 +1,12 @@
+Started by user [8mha:////4OSiMDpPHJ9N2wJn9lDfQLKpMsUuqvWpku4XAEyUBsKuAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgYB/dLi1CL97KLM4oy8REMjYwBxKKE3xQAAAA==[0mkrishna
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/palindromejob
+[palindromejob] $ /bin/sh -xe /tmp/jenkins1776329657547139942.sh
++ rm -rf reposink
++ git clone https://github.com/123krishna456/reposink.git
+Cloning into 'reposink'...
++ sh reposink/shellpgms/palindrome.sh 12321
+Enter a number to check for palindrome
+reposink/shellpgms/palindrome.sh: 3: read: 12321: bad variable name
+the given number 12321 is a palindrome
+Finished: SUCCESS

@@ -1,0 +1,9 @@
+commit 4bc16f8e76ae45fb592f635eebe667d3be5f0993
+tree a3a67c2f66585b1add9d2b588524260be48e7986
+parent 4670282e6f03127e2a434e77fc8a847815c4f71f
+author 123krishna456 <118282645+123krishna456@users.noreply.github.com> 2022-12-02 08:15:38 +0530
+committer GitHub <noreply@github.com> 2022-12-02 08:15:38 +0530
+
+    Update Jenkinsfile2
+
+:100644 100644 b12527ebf418b5b355aeac1cf5bb58383b0fc4ca 7e4fdda8aea7e280bb4d0d13eccf78bfc56aecc4 M	Jenkinsfile2

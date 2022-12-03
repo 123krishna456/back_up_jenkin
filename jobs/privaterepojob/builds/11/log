@@ -1,0 +1,25 @@
+Started by user [8mha:////4OSiMDpPHJ9N2wJn9lDfQLKpMsUuqvWpku4XAEyUBsKuAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgYB/dLi1CL97KLM4oy8REMjYwBxKKE3xQAAAA==[0mkrishna
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/privaterepojob
+The recommended git tool is: NONE
+using credential gituser
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/privaterepojob/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url git@github.com:123krishna456/privaterepo.git # timeout=10
+Fetching upstream changes from git@github.com:123krishna456/privaterepo.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+using GIT_ASKPASS to set credentials git user
+ > git fetch --tags --force --progress -- git@github.com:123krishna456/privaterepo.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 2bb483022bd453da2c9deb3f407a44ddcb668364 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 2bb483022bd453da2c9deb3f407a44ddcb668364 # timeout=10
+Commit message: "commit to private repo"
+ > git rev-list --no-walk 2bb483022bd453da2c9deb3f407a44ddcb668364 # timeout=10
+[privaterepojob] $ /bin/sh -xe /tmp/jenkins16443297046877946914.sh
++ ls
+hello.sh
++ pwd
+/var/lib/jenkins/workspace/privaterepojob
+Finished: SUCCESS

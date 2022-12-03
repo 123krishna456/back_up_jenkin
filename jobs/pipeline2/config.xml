@@ -1,0 +1,27 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-definition plugin="workflow-job@1254.v3f64639b_11dd">
+  <description>second practice</description>
+  <keepDependencies>false</keepDependencies>
+  <properties/>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@3536.vb_8a_6628079d5">
+    <script>node(&apos;jenkinworker1&apos;) {
+    stage(&quot;A&quot;) {
+                sh &quot;touch fileA&quot;
+    }
+    stage(&quot;B&quot;) {
+                sh &quot;ls &gt;&gt; fileA&quot;
+    }
+}
+node(&apos;jenkinworker2&apos;) {
+    stage(&quot;ONE&quot;) {
+                  sh &quot;touch fileB&quot;
+    }
+    stage(&quot;TWO&quot;) {
+                  echo &quot;fileB is empty&quot;
+    }
+}</script>
+    <sandbox>true</sandbox>
+  </definition>
+  <triggers/>
+  <disabled>false</disabled>
+</flow-definition>

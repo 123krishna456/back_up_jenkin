@@ -1,0 +1,32 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<Tag plugin="workflow-support@839.v35e2736cfd5c">
+  <node class="cps.n.StepStartNode" plugin="workflow-cps@3536.vb_8a_6628079d5">
+    <parentIds>
+      <string>9</string>
+    </parentIds>
+    <id>10</id>
+    <descriptorId>org.jenkinsci.plugins.workflow.steps.EnvStep</descriptorId>
+  </node>
+  <actions>
+    <s.a.LogStorageAction/>
+    <cps.a.ArgumentsActionImpl plugin="workflow-cps@3536.vb_8a_6628079d5">
+      <arguments>
+        <entry>
+          <string>overrides</string>
+          <list>
+            <string>GIT_BRANCH=origin/master</string>
+            <string>GIT_COMMIT=12b04ed966e3be38d5c4e9ee83a756b2f48dacbb</string>
+            <string>GIT_PREVIOUS_COMMIT=a033594a5a5cf0b6d397456381ac6a10cae8f5dc</string>
+            <string>GIT_PREVIOUS_SUCCESSFUL_COMMIT=a5a65a4f8838932c125a59b9f5c24415aeaf8415</string>
+            <string>GIT_URL=https://github.com/123krishna456/hello-world-war.git</string>
+          </list>
+        </entry>
+      </arguments>
+      <sensitiveVariables/>
+      <isUnmodifiedBySanitization>true</isUnmodifiedBySanitization>
+    </cps.a.ArgumentsActionImpl>
+    <wf.a.TimingAction plugin="workflow-api@1200.v8005c684b_a_c6">
+      <startTime>1669729322591</startTime>
+    </wf.a.TimingAction>
+  </actions>
+</Tag>

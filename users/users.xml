@@ -1,0 +1,30 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.model.UserIdMapper>
+  <version>1</version>
+  <idToDirectoryNameMap class="concurrent-hash-map">
+    <entry>
+      <string>tst123</string>
+      <string>tst123_15313245306499741784</string>
+    </entry>
+    <entry>
+      <string>noreply</string>
+      <string>noreply_9767484532639118508</string>
+    </entry>
+    <entry>
+      <string>ubuntu</string>
+      <string>ubuntu_6136084982117173443</string>
+    </entry>
+    <entry>
+      <string>dvlper123</string>
+      <string>dvlper123_15408280949047449817</string>
+    </entry>
+    <entry>
+      <string>krishna123</string>
+      <string>krishna123_1660234388570357710</string>
+    </entry>
+    <entry>
+      <string>dply123</string>
+      <string>dply123_744920941258468922</string>
+    </entry>
+  </idToDirectoryNameMap>
+</hudson.model.UserIdMapper>

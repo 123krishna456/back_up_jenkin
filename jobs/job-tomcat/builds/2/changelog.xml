@@ -1,0 +1,9 @@
+commit 26573cf8efcb75a2286dae9d43c1615be6f2ebd4
+tree a816ff3e0f44e52d0b51199374272f4023032fbe
+parent 90305e63a9778d20cc68ec2a2a0408d4ebaf2f06
+author 123krishna456 <118282645+123krishna456@users.noreply.github.com> 2022-11-27 23:01:37 +0530
+committer GitHub <noreply@github.com> 2022-11-27 23:01:37 +0530
+
+    Rename copytomcatinst.sh to tomcatinst.sh
+
+:100644 100644 b396b9a2f15930dd110fd128743bf84d0fc8284a b396b9a2f15930dd110fd128743bf84d0fc8284a R100	copytomcatinst.sh	tomcatinst.sh

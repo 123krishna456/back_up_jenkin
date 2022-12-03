@@ -1,0 +1,29 @@
+Started
+[Fri Dec 02 02:32:22 UTC 2022] Starting branch indexing...
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git ls-remote --symref -- https://github.com/123krishna456/hello-world-war.git # timeout=10
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/caches/git-692a7bf7690c3e72a8d8f2c0e5403271/.git # timeout=10
+Setting origin to https://github.com/123krishna456/hello-world-war.git
+ > git config remote.origin.url https://github.com/123krishna456/hello-world-war.git # timeout=10
+Fetching & pruning origin...
+Listing remote references...
+ > git config --get remote.origin.url # timeout=10
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git ls-remote -h -- https://github.com/123krishna456/hello-world-war.git # timeout=10
+Fetching upstream changes from origin
+ > git config --get remote.origin.url # timeout=10
+ > git fetch --tags --force --progress --prune -- origin +refs/heads/*:refs/remotes/origin/* # timeout=10
+Checking branches...
+  Checking branch master
+      ‘Jenkinsfile2’ found
+    Met criteria
+No changes detected: master (still at 4670282e6f03127e2a434e77fc8a847815c4f71f)
+  Checking branch newtest
+      ‘Jenkinsfile2’ found
+    Met criteria
+No changes detected: newtest (still at 4670282e6f03127e2a434e77fc8a847815c4f71f)
+Processed 2 branches
+[Fri Dec 02 02:32:24 UTC 2022] Finished branch indexing. Indexing took 1.7 sec
+Finished: SUCCESS

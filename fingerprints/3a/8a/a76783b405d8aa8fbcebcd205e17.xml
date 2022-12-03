@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-12-02 09:43:12.853 UTC</timestamp>
+  <md5sum>3a8aa76783b405d8aa8fbcebcd205e17</md5sum>
+  <fileName>Credential id=34bcf592-2779-42d6-9587-10212a667612 name=jenkinworker1/****** (worker1 for jenkin)</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1189.vf61b_a_5e2f62e">
+      <timestamp>1670070067765</timestamp>
+      <nodeName>jenkinworker1</nodeName>
+      <timestamp0>1670048256693</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

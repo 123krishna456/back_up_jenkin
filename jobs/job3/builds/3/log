@@ -1,0 +1,11 @@
+Started by user [8mha:////4OSiMDpPHJ9N2wJn9lDfQLKpMsUuqvWpku4XAEyUBsKuAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgYB/dLi1CL97KLM4oy8REMjYwBxKKE3xQAAAA==[0mkrishna
+Running as SYSTEM
+Building remotely on [8mha:////4NJX6v9gSxYUqMA5onDP5ywUxLfSt798AxmQtgNmUtt9AAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/eT83ILSktQi/azUvOzMvPL8ouzUIkMAUVNKCMwAAAA=[0mjenkinworker1 (jenkinworkers) in workspace /home/jenkinworker1/workspace/job3
+[job3] $ /bin/sh -xe /tmp/jenkins12885300935575855597.sh
++ rm -rf reposink
++ git clone https://github.com/123krishna456/reposink.git
+Cloning into 'reposink'...
++ sh reposink/sun1.sh east
+where does sun rise?
+You have answered incorrectly
+Finished: SUCCESS

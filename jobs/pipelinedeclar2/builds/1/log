@@ -1,0 +1,5 @@
+Started by user [8mha:////4OSiMDpPHJ9N2wJn9lDfQLKpMsUuqvWpku4XAEyUBsKuAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgYB/dLi1CL97KLM4oy8REMjYwBxKKE3xQAAAA==[0mkrishna
+Lightweight checkout support not available, falling back to full checkout.
+Checking out hudson.scm.NullSCM into /var/lib/jenkins/workspace/pipeline declar2@script/5409b97262d292dc35ef570d35634e0f1457d3a693dee835a3ef60007990ab88 to read Jenkinsfile2
+ERROR: /var/lib/jenkins/workspace/pipeline declar2@script/5409b97262d292dc35ef570d35634e0f1457d3a693dee835a3ef60007990ab88/Jenkinsfile2 not found
+Finished: FAILURE

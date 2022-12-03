@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-11-30 13:06:31.562 UTC</timestamp>
+  <md5sum>27f617f4d0aa414a46eab9405e30f755</md5sum>
+  <fileName>Credential id=jenkinpvtkey name=jenkin_sshkey (private repo git)</fileName>
+  <usages>
+    <entry>
+      <string>privaterepojob</string>
+      <ranges>5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

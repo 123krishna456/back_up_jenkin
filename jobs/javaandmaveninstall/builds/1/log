@@ -1,0 +1,26 @@
+Started by user [8mha:////4OSiMDpPHJ9N2wJn9lDfQLKpMsUuqvWpku4XAEyUBsKuAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgYB/dLi1CL97KLM4oy8REMjYwBxKKE3xQAAAA==[0mkrishna
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/javaandmaveninstall
+The recommended git tool is: NONE
+using credential jenkinworker3
+Cloning the remote Git repository
+Cloning repository https://github.com/123krishna456/reposink2.git
+ > git init /var/lib/jenkins/workspace/javaandmaveninstall # timeout=10
+Fetching upstream changes from https://github.com/123krishna456/reposink2.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+using GIT_ASKPASS to set credentials worker3 for jenkin
+ > git fetch --tags --force --progress -- https://github.com/123krishna456/reposink2.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/123krishna456/reposink2.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 76f42a6178f9787d9af51765712ec463ed2ff863 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 76f42a6178f9787d9af51765712ec463ed2ff863 # timeout=10
+Commit message: "Merge remote-tracking branch 'origin/master'"
+First time build. Skipping changelog.
+[javaandmaveninstall] $ /bin/sh -xe /tmp/jenkins15579722631138395965.sh
++ pwd
+/var/lib/jenkins/workspace/javaandmaveninstall
+Finished: SUCCESS

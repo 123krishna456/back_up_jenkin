@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-11-30 11:33:20.977 UTC</timestamp>
+  <md5sum>7e40bcdc038f342f40ac37dc22d136ac</md5sum>
+  <fileName>Credential id=jenkins_ssh name=jenkins_ssh (private key jenkins)</fileName>
+  <usages>
+    <entry>
+      <string>privaterepojob</string>
+      <ranges>1-2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
